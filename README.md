@@ -2,7 +2,7 @@
 
 This fork has been archived.
 
-test by tuandv111
+test 
 
 We originally forked `dbup-sqlserver` so that we could use `Microsoft.Data.SqlClient` package rather than `System.Data.SqlClient` package.
 
