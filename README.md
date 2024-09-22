@@ -2,6 +2,8 @@
 
 This fork has been archived.
 
+test by tuandv
+
 We originally forked `dbup-sqlserver` so that we could use `Microsoft.Data.SqlClient` package rather than `System.Data.SqlClient` package.
 
 The [upstream repo](https://github.com/DbUp/dbup-sqlserver) now uses the `Microsoft.Data.SqlClient` package, so we no longer require this fork.
